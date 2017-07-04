@@ -10,8 +10,8 @@ Enrico Fermi. Todas as partículas elementares ou são férmions ou bósons.
 
 * Quark
 ```
-O quark, na física de partículas, é uma partícula elementar e um dos dois elementos básicos que constituem a 
-matéria (o outro é o lépton). ... 
+O quark, na física de partículas, é uma partícula elementar e um dos dois elementos básicos que constituem
+a matéria (o outro é o lépton). ... 
 Existem seis tipos (ou sabores) de quarks: up, down, strange, charm, bottom, e top.
 ```
 > Fonte: https://pt.wikipedia.org/wiki/Quark

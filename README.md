@@ -22,8 +22,11 @@ de quarks: up, down, strange, charm, bottom, e top.
 
 * Baryon
 
-* Proton
-
+* Próton
+```
+O núcleo do isótopo mais comum do átomo de hidrogênio (com o símbolo químico "H") é um próton sozinho. Os núcleos do hidrogênio pesado dos isótopos deutério e trítio contêm um próton ligado a um e dois nêutrons, respectivamente.
+```
+> Fonte: https://pt.wikipedia.org/wiki/Próton
 * Neutron
 
 * Lépton

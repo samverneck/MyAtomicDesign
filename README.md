@@ -27,8 +27,11 @@ de quarks: up, down, strange, charm, bottom, e top.
 O núcleo do isótopo mais comum do átomo de hidrogênio (com o símbolo químico "H") é um próton sozinho. Os núcleos do hidrogênio pesado dos isótopos deutério e trítio contêm um próton ligado a um e dois nêutrons, respectivamente.
 ```
 > Fonte: https://pt.wikipedia.org/wiki/Próton
-* Neutron
-
+* Nêutron
+```
+Foi descoberto pelo físico inglês James Chadwick em 1932, que recebeu o Prêmio Nobel de Física em 1935 por essa descoberta. Para saber a quantidade de nêutrons que um átomo possui, basta fazer a subtração entre o número de massa (A) e o número atómico (Z).
+```
+> https://pt.wikipedia.org/wiki/Nêutron
 * Lépton
 ```
 Em Física Nuclear e Física de Partículas, um lépton (português brasileiro) ou leptão (português europeu) (grego para "leve", em oposição aos hádrons, ou hadrões, que são "pesados") é uma partícula subatômica que não interage fortemente. Léptons comportam-se como férmions e não são feitos de quarks. Também são definidos como as partículas que não sentem as forças nucleares, como o elétron (e-), o múon e seus neutrinos[1]

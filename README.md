@@ -2,7 +2,9 @@
 
 * Férmion
 ```md
-Um férmion (português brasileiro) ou fermião (português europeu) é uma partícula que tem spin semi-inteiro e obedece à estatística de Fermi-Dirac.[1] Recebem este nome em homenagem ao físico Enrico Fermi. Todas as partículas elementares ou são férmions ou bósons.
+Um férmion (português brasileiro) ou fermião (português europeu) é uma partícula que tem spin 
+semi-inteiro e obedece à estatística de Fermi-Dirac.[1] Recebem este nome em homenagem ao físico 
+Enrico Fermi. Todas as partículas elementares ou são férmions ou bósons.
 ```
 > Fonte: https://pt.wikipedia.org/wiki/F%C3%A9rmion
 

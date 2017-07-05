@@ -1,18 +1,18 @@
-* **Férmion**
+* **Férmion/Fermião**
 
 * **Quark**
 
-* **Hadron**
+* **Hádron/Hadrão**
 
-* **Meson**
+* **Méson/Mesão**
 
-* **Baryon**
+* **Bárion/barião**
 
 * **Próton**
 
 * **Nêutron**
 
-* **Lépton**
+* **Lépton/Leptão**
 
 * **Elétrons**
 

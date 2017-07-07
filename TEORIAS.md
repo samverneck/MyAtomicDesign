@@ -14,6 +14,11 @@
 > **Fonte:** https://pt.wikipedia.org/wiki/Quark
 
 * **Hádron/Hadrão**
+> fís.part nome genérico das partículas elementares que se relacionam através de interação forte.
+
+> Hádron (português brasileiro) ou hadrão (português europeu), em Física de Partículas, é uma partícula composta, formada por um estado ligado de quarks. Os hádrons mantêm a sua coesão interna devido à interação forte, de um modo análogo à que mantém os átomos unidos pela força electromagnética. Os hádrons mais conhecidos são os prótons português brasileiro ou protões português europeu e os neutrons português brasileiro ou neutrões português europeu.
+
+> **Fonte:** https://pt.wikipedia.org/wiki/Hádron
 
 * **Méson/Mesão**
 

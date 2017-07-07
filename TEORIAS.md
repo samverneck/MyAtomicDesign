@@ -35,6 +35,11 @@
 
 > **Fonte:** https://pt.wikipedia.org/wiki/Próton
 
+* **Bóson**
+> O bóson (português brasileiro) ou bosão (português europeu) é uma partícula que possui spin inteiro e obedece à estatística de Bose-Einstein.[1] Ele tem este nome em homenagem ao físico indiano Satyendra Nath Bose.[2] Entre os exemplos de bósons estão as partículas elementares, como o fóton, o glúon, o bóson de Higgs, e partículas compostas, como mésons e núcleos atômicos estáveis, como o hélio-4.
+
+> **Fonte:** https://pt.wikipedia.org/wiki/Bóson
+
 * **Nêutron**
 > Um nêutron (português brasileiro) ou neutrão (português europeu) é um bárion eletricamente neutro. Composto por dois quarks down e um quark up, forma o núcleo atômico juntamente com o próton e, uma vez fora deste, é instável e tem uma vida média de cerca de 15 minutos, emitindo um elétron e um antineutrino, convertendo-se em um próton.
 

@@ -32,3 +32,21 @@
 - [String Theory](https://en.wikipedia.org/wiki/String_theory)
 - [Quantum chromodynamics Theory](https://en.wikipedia.org/wiki/Quantum_chromodynamics)
 - [Quantum Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
+
+
+## Backend
+
+- Model
+  - field
+    - config
+    - validate
+    - validate messages
+  - plugins
+  - events
+- Controller
+  - action
+- Routes
+  - http verb
+  - path
+  - middleware
+  - action

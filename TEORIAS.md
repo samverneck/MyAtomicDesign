@@ -8,8 +8,8 @@
 
 * **Quark**
 > O quark, na física de partículas, é uma partícula elementar e um dos dois elementos básicos que constituem a matéria 
-> (o outro é o lépton). Quarks se combinam para formar partículas compostas chamadas hádrons; os mais estáveis desse tipo são > os prótons e os nêutrons, que são os principais componentes dos núcleos atômicos[1]. Devido a um fenômeno conhecido como 
-> confinamento, quarks nunca são diretamente observados ou encontrados isoladamente; eles podem ser encontrados apenas dentro > de hádrons, como os bárions (categoria a que pertencem os prótons e os nêutrons), e os mésons[2][3]. Por esta razão, muito > do que se sabe sobre os quarks foi elaborado a partir das observações dos próprios hádrons
+> (o outro é o lépton). Quarks se combinam para formar partículas compostas chamadas hádrons; os mais estáveis desse tipo são  os prótons e os nêutrons, que são os principais componentes dos núcleos atômicos[1]. Devido a um fenômeno conhecido como 
+> confinamento, quarks nunca são diretamente observados ou encontrados isoladamente; eles podem ser encontrados apenas dentro de hádrons, como os bárions (categoria a que pertencem os prótons e os nêutrons), e os mésons[2][3]. Por esta razão, muito do que se sabe sobre os quarks foi elaborado a partir das observações dos próprios hádrons
 
 > **Fonte:** https://pt.wikipedia.org/wiki/Quark
 

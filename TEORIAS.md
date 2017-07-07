@@ -1,3 +1,5 @@
+## Partículas
+
 * **Férmion/Fermião**
 
 * **Quark**
@@ -21,3 +23,12 @@
 * **Moléculas**
 
 * **Células**
+
+
+## Teorias
+
+- [Standard Model](https://en.wikipedia.org/wiki/Standard_Model)
+- [Pilot-wave Theory](https://en.wikipedia.org/wiki/Pilot_wave)
+- [String Theory](https://en.wikipedia.org/wiki/String_theory)
+- [Quantum chromodynamics Theory](https://en.wikipedia.org/wiki/Quantum_chromodynamics)
+- [Quantum Field Theory](https://en.wikipedia.org/wiki/Quantum_field_theory)

@@ -89,6 +89,7 @@
 - Model
   - field
     - config
+      - get/set 
     - validate
     - validate messages
   - plugins

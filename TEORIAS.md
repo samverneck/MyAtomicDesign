@@ -21,8 +21,14 @@
 > **Fonte:** https://pt.wikipedia.org/wiki/Hádron
 
 * **Méson/Mesão**
+> Na física de partículas, mésons (português brasileiro) são partículas subatômicas (Hádrons) compostas por um quark e um antiquark de carga oposta, unidas pela Força Forte. Como os mésons são compostos de subpartículas de quark, eles têm um tamanho físico, com um diâmetro de aproximadamente um fermi, que é cerca de 2/3 do tamanho de um próton ou nêutron. Todos os mésons são instáveis, a vida mais longa deles dura apenas alguns centésimos de um microssegundo. Mésons carregados decaem (às vezes através de partículas intermediárias) para formar elétrons e neutrinos. Os mésons não carregados podem decair em fótons. Ambas as decadências implicam que a carga de cores não é mais uma propriedade dos subprodutos.
+
+> **Fonte:** https://pt.wikipedia.org/wiki/Méson
 
 * **Bárion/barião**
+> Bárion (português brasileiro) ou barião (português europeu) é uma partícula subatômica composta por três quarks. Bárions e mésons pertencem à família dos hádrons, que são as partículas constituídas por quarks. O nome "bárion" vem da palavra grega para "pesado" (βαρύς, barys), porque, quando receberam essa denominação, as partículas elementares até então conhecidas possuíam massas menores do que a dos bárions.
+
+> **Fonte:** https://pt.wikipedia.org/wiki/Bárion
 
 * **Próton**
 

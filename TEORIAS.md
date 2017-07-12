@@ -108,14 +108,14 @@
   
   ## Frontend
   
-  - Átomos
+- Átomos
   
-  - Moleculas
+- Moleculas
   
-  - Organismos
+- Organismos
   
-  - Template
-  
-  - Pages
+- Template
+
+- Pages
   
   ## Security

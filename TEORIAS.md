@@ -108,6 +108,9 @@
   
   ## Frontend
   
+<img src="http://www.frontendbrasil.com.br/wp-content/uploads/2014/02/atomic-design1-11.png">
+
+<br>
 - Átomos
   
 - Moleculas

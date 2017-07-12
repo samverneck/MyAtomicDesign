@@ -1,3 +1,3 @@
 # MyAtomicDesign
 
-"Não estamos criando páginas, estamos projetando sistemas de componentes." **-Stephen Hay**
+# "Não estamos criando páginas, estamos projetando sistemas de componentes." -Stephen Hay
